@@ -1,0 +1,11 @@
+Model Information:
+* title:	Drone photogrammetry of an italian clock tower
+* source:	https://sketchfab.com/3d-models/drone-photogrammetry-of-an-italian-clock-tower-413329fe25b14706bcfbd13f0b0fd13a
+* author:	ivanfrattina (https://sketchfab.com/ivanfrattina)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Drone photogrammetry of an italian clock tower" (https://sketchfab.com/3d-models/drone-photogrammetry-of-an-italian-clock-tower-413329fe25b14706bcfbd13f0b0fd13a) by ivanfrattina (https://sketchfab.com/ivanfrattina) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
