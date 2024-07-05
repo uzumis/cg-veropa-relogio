@@ -1,6 +1,84 @@
-[
-    "Google Cloud Platform",
-    "Amazon AWS",
-    "Docker",
-    "Digital Ocean"
-]
+{
+  "empresas": [
+    {
+      "nome": "GRUPO SADA (COMUNICAÇÃO)",
+      "email": "grupo.sada@exemplo.com"
+    },
+    {
+      "nome": "AUTOSERVICE",
+      "email": "autoservice@exemplo.com"
+    },
+    {
+      "nome": "BRAZIL PROLOGIC",
+      "email": "brazil.prologic@exemplo.com"
+    },
+    {
+      "nome": "BRAZUL TRANSPORTES E LOGÍSTICA",
+      "email": "brazul@exemplo.com"
+    },
+    {
+      "nome": "DACUNHA NORDESTE",
+      "email": "dacunha.nordeste@exemplo.com"
+    },
+    {
+      "nome": "DEVA AUTOMÓVEIS",
+      "email": "deva.automoveis@exemplo.com"
+    },
+    {
+      "nome": "SADA COMBUSTÍVEIS",
+      "email": "sada.combustiveis@exemplo.com"
+    },
+    {
+      "nome": "DEVA VEÍCULOS",
+      "email": "deva.veiculos@exemplo.com"
+    },
+    {
+      "nome": "EBER BIOENERGIA E AGRICULTURA",
+      "email": "eber.bioenergia@exemplo.com"
+    },
+    {
+      "nome": "FUNDAÇÃO MEDIOLI",
+      "email": "fundacao.medioli@exemplo.com"
+    },
+    {
+      "nome": "MATRAN INDÚSTRIA E COMÉRCIO",
+      "email": "matran@exemplo.com"
+    },
+    {
+      "nome": "OMR COMPONENTES",
+      "email": "omr.componentes@exemplo.com"
+    },
+    {
+      "nome": "SADA BIOENERGIA E AGRICULTURA",
+      "email": "sada.bioenergia@exemplo.com"
+    },
+    {
+      "nome": "SADA LOGÍSTICA E ARMAZÉNS",
+      "email": "sada.logistica@exemplo.com"
+    },
+    {
+      "nome": "SADA SIDERURGIA",
+      "email": "sada.siderurgia@exemplo.com"
+    },
+    {
+      "nome": "SADA TRANSPORTE CENTRO-OESTE",
+      "email": "sada.transporte@exemplo.com"
+    },
+    {
+      "nome": "SADA TRANSPORTES",
+      "email": "sada.transportes@exemplo.com"
+    },
+    {
+      "nome": "SEMPRE EDITORA",
+      "email": "sempre.editora@exemplo.com"
+    },
+    {
+      "nome": "TRANSZERO",
+      "email": "transzero@exemplo.com"
+    },
+    {
+      "nome": "SADA VÔLEI",
+      "email": "sada.volei@exemplo.com"
+    }
+  ]
+}
